@@ -47,4 +47,4 @@ Helps understand daily performance patterns
 
 (Add screenshot here)
 
-![Dashboard Screenshot](power_bi_dashboard_productivity.png)
+![Dashboard Screenshot](productivity.png)
