@@ -45,6 +45,4 @@ Helps understand daily performance patterns
 
 🖼 Dashboard Preview
 
-(Add screenshot here)
-
 ![Dashboard Screenshot](productivity.png)
