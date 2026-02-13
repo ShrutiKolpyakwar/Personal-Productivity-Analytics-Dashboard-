@@ -9,10 +9,10 @@ This dashboard helps visualize productivity trends and behavioral patterns using
 
 🛠 Tools & Technologies
 
-Power BI
-Microsoft Excel
-Data Visualization
-KPI Metrics
+Power BI,
+Microsoft Excel, 
+Data Visualization. 
+KPI Metrics, 
 Slicers & Filters
 
 📂 Dataset Features
