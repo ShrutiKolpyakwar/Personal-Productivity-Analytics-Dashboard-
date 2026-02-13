@@ -46,3 +46,4 @@ Helps understand daily performance patterns
 🖼 Dashboard Preview
 
 ![Dashboard Screenshot](productivity.png)
+![Excel Dashboard](productivity_dashboard_excel.png)
