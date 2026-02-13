@@ -19,12 +19,12 @@ Slicers & Filters
 
 The dataset includes:
 
-Date
-Focus Score
-Screen Time Hours
-Study Hours
-Tasks Completed
-Mood
+Date,
+Focus Score,
+Screen Time Hours, 
+Study Hours, 
+Tasks Completed, 
+Mood, 
 Productivity Score
 
 📈 Dashboard Features
